@@ -8,8 +8,9 @@ accuracy = (TN + TP) / (TN + FP + FN + TP)
 accuracy
 
 sensitivity = TP / (TP + FN)
-
+sensitivity
 specificity = TN / (TN + FP)
+specificity
 
 balanced_accuracy = (sensitivity + specificity) / 2
 
